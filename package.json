@@ -1,5 +1,9 @@
 {
-	"author": "Suhit Pradhan",
+	 "author": {
+    "name": "Flavio Copes",
+    "email": "flavio@flaviocopes.com",
+    "url": "https://flaviocopes.com"
+  },
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
